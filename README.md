@@ -52,7 +52,7 @@ THEN I am able to successfully create, update, and delete data in my database <b
 
 ## Credits <a name="credits"></a>
 
-![starter code from xandromus]: (https://github.com/coding-boot-camp/fantastic-umbrella)
+starter code from xandromus: (https://github.com/coding-boot-camp/fantastic-umbrella)
 
 ## Contributing <a name="contributing"></a>
 
