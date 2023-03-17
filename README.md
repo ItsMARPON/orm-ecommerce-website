@@ -33,8 +33,10 @@ Install sequelize version 6.3.5 <br />
 
 ![Screenshot of Insomnia back end](./assets/images/module13-Insomnia1.png)
 <br />
-![Video Walk through of backend server application](https://watch.screencastify.com/v/lLGRp5ZU8tAmJ5kO4vGm)
+
+Video Walk through of backend server application: (https://watch.screencastify.com/v/lLGRp5ZU8tAmJ5kO4vGm)
 <br/>
+
 
 AS A manager at an internet retail company <br />
 I WANT a back end for my e-commerce website that uses the latest technologies <br />
